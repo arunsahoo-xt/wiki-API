@@ -1,0 +1,22 @@
+
+    [{
+      
+      "title": "REST",
+      "content": "REST is sort for REpresentational State Transfer,Its an article"
+    },
+    {
+      
+      "title": "API",
+      "content": "API stands for Application Programming Interface"
+    },
+    {
+      
+      "title": "Boostrap",
+      "content": "This is a framework developed by Twitter"
+    },
+    {
+      
+      "title": "DOM",
+      "content": "DOM stands for Document object Model< It is like an API for interacting with HTML"
+    }]
+ 
